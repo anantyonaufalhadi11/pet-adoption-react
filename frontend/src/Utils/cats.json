@@ -1,0 +1,37 @@
+[
+    {
+        "image": "Cat1.png",
+        "name": "Luna",
+        "race": "Eksotis",
+        "type": "Cat",
+        "tag": ["Baby", "Eksotis", "Cats"]
+    },
+    {
+        "image": "Cat2.png",
+        "name": "Milo",
+        "race": "Maine",
+        "type": "Cat",
+        "tag": ["Orange", "Maine", "Cats", "Baby"]
+    },
+    {
+        "image": "Cat3.png",
+        "name": "Gizmo",
+        "race": "Persian",
+        "type": "Cat",
+        "tag": ["Baby", "Persian", "White", "Cats"]
+    },
+    {
+        "image": "Cat4.png",
+        "name": "Nala",
+        "race": "Birman",
+        "type": "Cat",
+        "tag": ["Baby", "Orange", "Birman", "Cats"]
+    },
+    {
+        "image": "Cat5.png",
+        "name": "Whiskers",
+        "race": "Tiffany",
+        "type": "Cat",
+        "tag": ["Baby", "Tiffany", "Cats"]
+    }
+]

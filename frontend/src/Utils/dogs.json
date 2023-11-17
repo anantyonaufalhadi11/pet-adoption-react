@@ -1,0 +1,37 @@
+[
+    {
+        "image": "Dog1.png",
+        "name": "Rocky",
+        "race": "German Shepherd",
+        "type": "Dog",
+        "tag": ["Baby", "Eksotis", "Dogs"]
+    },
+    {
+        "image": "Dog2.png",
+        "name": "Bella",
+        "race": "Cihuahua",
+        "type": "Dog",
+        "tag": ["Orange", "Maine", "Dogs", "Baby"]
+    },
+    {
+        "image": "Dog3.png",
+        "name": "Husky",
+        "race": "Persian",
+        "type": "Dog",
+        "tag": ["Baby", "Persian", "White", "Dogs"]
+    },
+    {
+        "image": "Dog4.png",
+        "name": "Pomeranian",
+        "race": "Birman",
+        "type": "Dog",
+        "tag": ["Baby", "Orange", "Birman", "Dogs"]
+    },
+    {
+        "image": "Dog5.png",
+        "name": "Charlie",
+        "race": "Retriever",
+        "type": "Dog",
+        "tag": ["Baby", "Tiffany", "Dogs"]
+    }
+]
